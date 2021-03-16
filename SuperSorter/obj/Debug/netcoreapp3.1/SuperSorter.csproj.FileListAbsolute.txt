@@ -1,0 +1,13 @@
+C:\Users\Marius\source\repos\semester4\SWD\SuperSorter\SuperSorter\bin\Debug\netcoreapp3.1\SuperSorter.exe
+C:\Users\Marius\source\repos\semester4\SWD\SuperSorter\SuperSorter\bin\Debug\netcoreapp3.1\SuperSorter.deps.json
+C:\Users\Marius\source\repos\semester4\SWD\SuperSorter\SuperSorter\bin\Debug\netcoreapp3.1\SuperSorter.runtimeconfig.json
+C:\Users\Marius\source\repos\semester4\SWD\SuperSorter\SuperSorter\bin\Debug\netcoreapp3.1\SuperSorter.runtimeconfig.dev.json
+C:\Users\Marius\source\repos\semester4\SWD\SuperSorter\SuperSorter\bin\Debug\netcoreapp3.1\SuperSorter.dll
+C:\Users\Marius\source\repos\semester4\SWD\SuperSorter\SuperSorter\bin\Debug\netcoreapp3.1\SuperSorter.pdb
+C:\Users\Marius\source\repos\semester4\SWD\SuperSorter\SuperSorter\obj\Debug\netcoreapp3.1\SuperSorter.csprojAssemblyReference.cache
+C:\Users\Marius\source\repos\semester4\SWD\SuperSorter\SuperSorter\obj\Debug\netcoreapp3.1\SuperSorter.AssemblyInfoInputs.cache
+C:\Users\Marius\source\repos\semester4\SWD\SuperSorter\SuperSorter\obj\Debug\netcoreapp3.1\SuperSorter.AssemblyInfo.cs
+C:\Users\Marius\source\repos\semester4\SWD\SuperSorter\SuperSorter\obj\Debug\netcoreapp3.1\SuperSorter.csproj.CoreCompileInputs.cache
+C:\Users\Marius\source\repos\semester4\SWD\SuperSorter\SuperSorter\obj\Debug\netcoreapp3.1\SuperSorter.dll
+C:\Users\Marius\source\repos\semester4\SWD\SuperSorter\SuperSorter\obj\Debug\netcoreapp3.1\SuperSorter.pdb
+C:\Users\Marius\source\repos\semester4\SWD\SuperSorter\SuperSorter\obj\Debug\netcoreapp3.1\SuperSorter.genruntimeconfig.cache
