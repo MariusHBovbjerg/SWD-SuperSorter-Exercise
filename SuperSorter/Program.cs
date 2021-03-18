@@ -7,20 +7,20 @@ namespace SuperSorter
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            ArrayGenerator AG = new ArrayGenerator(10, 50, 1000000);
-            SuperSorter SS = new SuperSorter();
+            ArrayGenerator AG = new ArrayGenerator(100, 50, 1000000);
 
-            int[] GamerArray = new int[10];
-            AG.GenerateArray(GamerArray);
-            
-            for (int i = 0; i < 10; i++)
+            int[] GamerArray = new int[100];
+            int[] values = {10, 2, 50, 9};
+            AG.GenerateArray(GamerArray, values);
+
+            for (int i = 0; i < 100; i++)
             {
                 Console.WriteLine(GamerArray[i]);
             }
 
-            SS.SortArray(GamerArray);
+            AG.SortTheArray(GamerArray);
 
-            for (int i = 0; i < 10; i++)
+            for (int i = 0; i < 100; i++)
             {
                 Console.WriteLine(GamerArray[i]);
             }
